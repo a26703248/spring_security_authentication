@@ -74,10 +74,6 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
-		
-=======
->>>>>>> a25ac434b10f26e542f26273d30225384b1ee778
 	</dependencies>
 
 	<build>
